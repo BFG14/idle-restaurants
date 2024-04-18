@@ -1,23 +1,23 @@
 {
   "frames": {
-    "rope_01.png": {
+    "small_table.png": {
       "frame": {
         "x": 0,
         "y": 0,
-        "w": 441,
-        "h": 127
+        "w": 459,
+        "h": 96
       },
       "rotated": false,
       "trimmed": true,
       "spriteSourceSize": {
-        "x": 3,
-        "y": 9,
-        "w": 441,
-        "h": 127
+        "x": 14,
+        "y": 17,
+        "w": 459,
+        "h": 96
       },
       "sourceSize": {
-        "w": 448,
-        "h": 144
+        "w": 482,
+        "h": 122
       },
       "pivot": {
         "x": 0.5,
@@ -26,358 +26,190 @@
     },
     "rope_02.png": {
       "frame": {
-        "x": 441,
+        "x": 459,
         "y": 0,
-        "w": 439,
-        "h": 131
+        "w": 441,
+        "h": 126
       },
       "rotated": false,
       "trimmed": true,
       "spriteSourceSize": {
-        "x": 19,
-        "y": 5,
-        "w": 439,
-        "h": 131
+        "x": 4,
+        "y": 18,
+        "w": 441,
+        "h": 126
       },
       "sourceSize": {
-        "w": 461,
-        "h": 149
+        "w": 466,
+        "h": 159
       },
       "pivot": {
         "x": 0.5,
         "y": 0.5
       }
     },
-    "flower_03.png": {
+    "rope_03.png": {
       "frame": {
         "x": 0,
-        "y": 127,
-        "w": 82,
-        "h": 439
+        "y": 96,
+        "w": 440,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 19,
+        "w": 440,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 460,
+        "h": 159
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "lamp_02.png": {
+      "frame": {
+        "x": 900,
+        "y": 0,
+        "w": 69,
+        "h": 404
       },
       "rotated": true,
       "trimmed": false,
       "spriteSourceSize": {
         "x": 0,
         "y": 0,
-        "w": 82,
-        "h": 439
+        "w": 69,
+        "h": 404
       },
       "sourceSize": {
-        "w": 82,
-        "h": 439
+        "w": 69,
+        "h": 404
       },
       "pivot": {
         "x": 0.5,
         "y": 0.5
       }
     },
-    "lamp.png": {
+    "rope_01.png": {
       "frame": {
-        "x": 880,
+        "x": 1304,
         "y": 0,
-        "w": 72,
-        "h": 395
-      },
-      "rotated": true,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 19,
-        "y": 12,
-        "w": 72,
-        "h": 395
-      },
-      "sourceSize": {
-        "w": 109,
-        "h": 433
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "pole_01.png": {
-      "frame": {
-        "x": 1275,
-        "y": 0,
-        "w": 139,
-        "h": 294
-      },
-      "rotated": true,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 7,
-        "y": 7,
-        "w": 139,
-        "h": 294
-      },
-      "sourceSize": {
-        "w": 151,
-        "h": 302
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "pole_02.png": {
-      "frame": {
-        "x": 880,
-        "y": 72,
-        "w": 139,
-        "h": 294
-      },
-      "rotated": true,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 11,
-        "y": 7,
-        "w": 139,
-        "h": 294
-      },
-      "sourceSize": {
-        "w": 151,
-        "h": 302
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "black_board_02.png": {
-      "frame": {
-        "x": 1174,
-        "y": 72,
-        "w": 98,
-        "h": 145
+        "w": 403,
+        "h": 220
       },
       "rotated": false,
       "trimmed": true,
       "spriteSourceSize": {
         "x": 0,
-        "y": 7,
-        "w": 98,
-        "h": 145
+        "y": 22,
+        "w": 403,
+        "h": 220
       },
       "sourceSize": {
-        "w": 98,
-        "h": 152
+        "w": 420,
+        "h": 277
       },
       "pivot": {
         "x": 0.5,
         "y": 0.5
       }
     },
-    "pole_03.png": {
+    "lamp_01.png": {
       "frame": {
-        "x": 439,
-        "y": 131,
-        "w": 139,
-        "h": 294
-      },
-      "rotated": true,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 6,
-        "y": 7,
-        "w": 139,
-        "h": 294
-      },
-      "sourceSize": {
-        "w": 151,
-        "h": 302
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "pole_04.png": {
-      "frame": {
-        "x": 733,
-        "y": 131,
-        "w": 139,
-        "h": 293
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 2,
-        "y": 7,
-        "w": 139,
-        "h": 293
-      },
-      "sourceSize": {
-        "w": 151,
-        "h": 302
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "drink_machine_02.png": {
-      "frame": {
-        "x": 439,
-        "y": 270,
-        "w": 95,
-        "h": 222
-      },
-      "rotated": true,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 3,
-        "y": 8,
-        "w": 95,
-        "h": 222
-      },
-      "sourceSize": {
-        "w": 99,
-        "h": 230
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "flower_02.png": {
-      "frame": {
-        "x": 661,
-        "y": 270,
-        "w": 71,
-        "h": 118
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 6,
-        "y": 5,
-        "w": 71,
-        "h": 118
-      },
-      "sourceSize": {
+        "x": 900,
+        "y": 69,
         "w": 84,
-        "h": 123
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "drink_machine_01.png": {
-      "frame": {
-        "x": 872,
-        "y": 211,
-        "w": 94,
-        "h": 222
+        "h": 388
       },
       "rotated": true,
       "trimmed": true,
       "spriteSourceSize": {
-        "x": 4,
-        "y": 8,
-        "w": 94,
-        "h": 222
+        "x": 18,
+        "y": 19,
+        "w": 84,
+        "h": 388
       },
       "sourceSize": {
-        "w": 99,
-        "h": 230
+        "w": 122,
+        "h": 437
       },
       "pivot": {
         "x": 0.5,
         "y": 0.5
       }
     },
-    "seat.png": {
+    "ad_stand_04.png": {
       "frame": {
-        "x": 1094,
-        "y": 211,
-        "w": 76,
-        "h": 70
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 27,
-        "y": 20,
-        "w": 76,
-        "h": 70
-      },
-      "sourceSize": {
-        "w": 131,
-        "h": 117
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "table_extra.png": {
-      "frame": {
-        "x": 0,
-        "y": 209,
-        "w": 149,
-        "h": 191
-      },
-      "rotated": true,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 0,
-        "y": 10,
-        "w": 149,
-        "h": 191
-      },
-      "sourceSize": {
-        "w": 149,
-        "h": 201
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "wall_frames_01.png": {
-      "frame": {
-        "x": 191,
-        "y": 209,
-        "w": 187,
-        "h": 113
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 4,
-        "y": 6,
-        "w": 187,
-        "h": 113
-      },
-      "sourceSize": {
-        "w": 197,
-        "h": 123
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "flower05_shadow.png": {
-      "frame": {
-        "x": 378,
-        "y": 209,
-        "w": 69,
-        "h": 44
-      },
-      "rotated": true,
-      "trimmed": false,
-      "spriteSourceSize": {
-        "x": 0,
+        "x": 1707,
         "y": 0,
-        "w": 69,
-        "h": 44
+        "w": 105,
+        "h": 233
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 9,
+        "w": 105,
+        "h": 233
       },
       "sourceSize": {
-        "w": 69,
-        "h": 44
+        "w": 128,
+        "h": 248
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "double_frame.png": {
+      "frame": {
+        "x": 1940,
+        "y": 0,
+        "w": 161,
+        "h": 104
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 13,
+        "w": 161,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 187,
+        "h": 129
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ad_stand_02.png": {
+      "frame": {
+        "x": 1707,
+        "y": 105,
+        "w": 99,
+        "h": 135
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 14,
+        "w": 99,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 123,
+        "h": 160
       },
       "pivot": {
         "x": 0.5,
@@ -386,69 +218,45 @@
     },
     "wall_lamp.png": {
       "frame": {
-        "x": 378,
-        "y": 278,
-        "w": 44,
-        "h": 67
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 2,
-        "y": 0,
-        "w": 44,
-        "h": 67
-      },
-      "sourceSize": {
+        "x": 1842,
+        "y": 105,
         "w": 48,
-        "h": 67
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 12,
+        "w": 48,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 58,
+        "h": 112
       },
       "pivot": {
         "x": 0.5,
         "y": 0.5
       }
     },
-    "wall_frames_02.png": {
+    "flower.png": {
       "frame": {
-        "x": 191,
-        "y": 322,
-        "w": 174,
-        "h": 105
+        "x": 1842,
+        "y": 153,
+        "w": 70,
+        "h": 100
       },
       "rotated": false,
       "trimmed": true,
       "spriteSourceSize": {
-        "x": 9,
-        "y": 6,
-        "w": 174,
-        "h": 105
+        "x": 8,
+        "y": 8,
+        "w": 70,
+        "h": 100
       },
       "sourceSize": {
-        "w": 189,
-        "h": 119
-      },
-      "pivot": {
-        "x": 0.5,
-        "y": 0.5
-      }
-    },
-    "flower_01.png": {
-      "frame": {
-        "x": 365,
-        "y": 345,
-        "w": 70,
-        "h": 103
-      },
-      "rotated": false,
-      "trimmed": true,
-      "spriteSourceSize": {
-        "x": 4,
-        "y": 7,
-        "w": 70,
-        "h": 103
-      },
-      "sourceSize": {
-        "w": 79,
+        "w": 84,
         "h": 110
       },
       "pivot": {
@@ -456,24 +264,96 @@
         "y": 0.5
       }
     },
-    "black_board_01.png": {
+    "ad_stand_01.png": {
       "frame": {
-        "x": 0,
-        "y": 358,
-        "w": 96,
-        "h": 130
+        "x": 1707,
+        "y": 204,
+        "w": 99,
+        "h": 134
       },
       "rotated": true,
       "trimmed": true,
       "spriteSourceSize": {
-        "x": 5,
-        "y": 7,
-        "w": 96,
-        "h": 130
+        "x": 13,
+        "y": 15,
+        "w": 99,
+        "h": 134
       },
       "sourceSize": {
-        "w": 106,
-        "h": 137
+        "w": 123,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "ad_stand_03.png": {
+      "frame": {
+        "x": 1912,
+        "y": 161,
+        "w": 99,
+        "h": 134
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 14,
+        "w": 99,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 123,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Flower05_shadow.png": {
+      "frame": {
+        "x": 1841,
+        "y": 253,
+        "w": 69,
+        "h": 44
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 44
+      },
+      "sourceSize": {
+        "w": 69,
+        "h": 44
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "seat.png": {
+      "frame": {
+        "x": 1841,
+        "y": 297,
+        "w": 58,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 21,
+        "w": 58,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 104
       },
       "pivot": {
         "x": 0.5,
@@ -487,8 +367,8 @@
     "image": "deco.png",
     "format": "RGBA8888",
     "size": {
-      "w": 1569,
-      "h": 454
+      "w": 2046,
+      "h": 350
     },
     "scale": 1
   }
